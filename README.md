@@ -1,3 +1,13 @@
+# Solutions
+
+These are my solutions for the css exercises that can be found [here](https://github.com/CharbelElBateh/javascript-exercises)
+
+*Credits: [The Odin Project](https://www.theodinproject.com/)*
+
+:x: ***I DO NOT CLAIM ANY OWNERSHIP***
+
+# Orginal README.md
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
